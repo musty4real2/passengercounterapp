@@ -51,3 +51,15 @@ console.log(count);
 // incrementLap();
 
 // console.log(lapsCompleted);
+
+// document.getElementById("count").innerText = 5
+
+// change the count-el in the HTML to reflect the new count
+
+// let count = 0;
+
+// function increment() {
+//     count = count + 1;
+//     console.log(count);
+// }
+// let message = "You have tree new notifications"
