@@ -31,7 +31,7 @@
 //     saveEl.textContent += countStr;
 // }
 
-
+// good 
 
 let saveEl = document.getElementById("save-el");
 let countEl = document.getElementById("count-el");
