@@ -70,3 +70,15 @@
 // let messageToUser = message + ", " + username + "!"
 
 // console.log(messageToUser)
+
+
+
+
+// Prompt the user for their name
+var userName = prompt("What is your name?");
+
+if (userName !== null && userName !== "") {
+    alert("Hello, " + userName + "! Welcome to the world of JavaScript.");
+} else {
+    alert("Hello, anonymous! Welcome to the world of JavaScript.");
+}
